@@ -1,5 +1,4 @@
 <<<<<<< HEAD
-The first line, changed in Version2
 =======
 First line changes in Master
 >>>>>>> master
