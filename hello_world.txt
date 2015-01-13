@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 The first line, changed in Version2
+=======
+First line changes in Master
+>>>>>>> master
 These lines should only appear in Version 2
 fsdkljflksjfljk:q
